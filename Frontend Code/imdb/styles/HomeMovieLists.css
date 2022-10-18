@@ -1,0 +1,64 @@
+
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+.text-truncate.homecard_title{
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+
+.rating_homecard_sm {
+    background: rgba(29, 29, 29, 0.5);
+    border-radius: 12px;
+    backdrop-filter: blur(2px);
+}
+
+.swiper-button-next {
+    color: rgba(255, 255, 255, 0.8);
+}
+.swiper-button-prev {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.swiper-pagination-bullet {
+    background: rgba(255, 255, 255, 0.80);
+}
+
+
+.movie_card_small {
+    width: 292px;
+    height: 440px;
+}
+
+.movie_card_small_pt {
+    padding-top: 100%;
+}
+
+.movie_card_big {
+    width: 504px;
+    height: 736px;
+}
+
+.movie_card_big_pt {
+    padding-top: 100%;
+}
+
+@media screen and (min-width: 320px) and (max-width: 640px) {
+    .movie_card_small {
+        width: 146px;
+        height: 220px;
+    }
+    .movie_card_small_pt {
+        padding-top: 100%;
+    }
+    .movie_card_big {
+        width: 252px;
+        height: 368px;
+    }
+    .movie_card_big_pt {
+        padding-top: 90%;
+    }
+}

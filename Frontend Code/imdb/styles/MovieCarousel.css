@@ -1,0 +1,8 @@
+.carousel-overlay {
+    background: linear-gradient(269.96deg, rgba(29, 29, 29, 0) 0.04%, rgba(29, 29, 29, 0.8) 99.5%);
+    filter: brightness(60%);
+}
+.carousel-caption {
+    left: 5%;
+    color: #fff;
+}

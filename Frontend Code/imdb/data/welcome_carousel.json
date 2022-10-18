@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Zack Snyder's Justice League",
+        "description": "Bruce Wayne and Diana Prince try to bring the metahumans of Earth together after the death of Clark Kent. Meanwhile, Darkseid sends Steppenwolf to Earth with a vast army to subjugate humans.",
+        "img": "/card-img 3.png",
+        "rating": "4.9",
+        "link": "/movie/791373"
+    },
+    {
+        "title": "Godzilla vs. Kong",
+        "description": "King Kong is transported out of his containment zone after Godzilla resurfaces and creates mayhem. Humans need his help to reach Hollow Earth and find a way to subdue the king of the monsters.",
+        "img": "/card-img 2.png",
+        "rating": "4.1",
+        "link": "/movie/399566"
+    }
+]

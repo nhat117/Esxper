@@ -1,0 +1,12 @@
+{
+  "kinesisStreamName": "amplifyAnalyticsExsper",
+  "kinesisStreamShardCount": 1,
+  "authRoleName": {
+    "Ref": "AuthRoleName"
+  },
+  "unauthRoleName": {
+    "Ref": "UnauthRoleName"
+  },
+  "authPolicyName": "kinesis_amplify_9aca7a48",
+  "unauthPolicyName": "kinesis_amplify_9aca7a48"
+}
